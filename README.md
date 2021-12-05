@@ -1,6 +1,6 @@
 # <p align="center">  Predicts the qualified employee for promotion using Classification </p>
 By Banan Alhethlool | banan.alhethlool@gmail.com
-
+l
 ## Introduction
 
 The third project of the T5 data science bootcamp focuses on creating a supervised machine learning classification model. Therefore, the idea we are proposing is using HR data in order to predict the qualified employee for promotion every year.
