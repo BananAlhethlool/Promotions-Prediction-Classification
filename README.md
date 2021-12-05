@@ -5,6 +5,8 @@ By Banan Alhethlool | banan.alhethlool@gmail.com
 
 The third project of the T5 data science bootcamp focuses on creating a supervised machine learning classification model. Therefore, the idea we are proposing is using HR data in order to predict the qualified employee for promotion every year.
 
+![Airbnb](https://user-images.githubusercontent.com/57495692/140867667-de77b4f3-bac5-45e2-a52f-2f7f85598eb9.png)
+
 
 ### Company information:
 The data we are using belong to a multinational corporation that consists of many sectors across the company.
