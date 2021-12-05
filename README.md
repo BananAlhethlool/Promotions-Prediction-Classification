@@ -1,4 +1,4 @@
-# Predicts the qualified employee for promotion using Classification
+# <p align="center">  Predicts the qualified employee for promotion using Classification </p>
 By Banan Alhethlool | banan.alhethlool@gmail.com
 
 ## Introduction
